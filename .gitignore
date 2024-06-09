@@ -1,3 +1,14 @@
 nimcache/
 nimblecache/
 htmldocs/
+
+src/kuzu-master
+src/kuzu-0.4.2
+src/wrapper/create
+
+examples/example.db/
+examples/test/
+examples/*
+!examples/*.nim
+!examples/*.c
+!examples/data/
